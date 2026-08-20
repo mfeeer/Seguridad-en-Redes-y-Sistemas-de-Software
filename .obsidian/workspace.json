@@ -44,9 +44,149 @@
               "icon": "lucide-file",
               "title": "01- Lets Warm Up"
             }
+          },
+          {
+            "id": "3fce6914770f70e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/01- Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01- Lets Warm Up"
+            }
+          },
+          {
+            "id": "6ad2ed2f08afbcb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/01- Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01- Lets Warm Up"
+            }
+          },
+          {
+            "id": "f0f735c7fcdc01d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/02- 2Warm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02- 2Warm"
+            }
+          },
+          {
+            "id": "ce13c4c22a69be3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/04- Bases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04- Bases"
+            }
+          },
+          {
+            "id": "797cd67342fb6b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/05- First Grep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05- First Grep"
+            }
+          },
+          {
+            "id": "64a95da65af692ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/06- Obedient Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06- Obedient Cat"
+            }
+          },
+          {
+            "id": "457bcaf45b0bf0a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/07- what's a net cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07- what's a net cat"
+            }
+          },
+          {
+            "id": "f1f0330eff16c4e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/08- Plumbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08- Plumbing"
+            }
+          },
+          {
+            "id": "5a67b43479bf5123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/09- Glitch Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09- Glitch Cat"
+            }
+          },
+          {
+            "id": "3f31e16f3aee538b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/01- Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01- Lets Warm Up"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -213,14 +353,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5ecf57d272accd5d",
+  "active": "3f31e16f3aee538b",
   "lastOpenFiles": [
-    "01 - General Skills/01- Lets Warm Up.md",
+    "01 - General Skills/02- 2Warm.md",
+    "01 - General Skills/03- Warmed Up.md",
+    "01 - General Skills/04- Bases.md",
+    "01 - General Skills/05- First Grep.md",
+    "01 - General Skills/06- Obedient Cat.md",
+    "01 - General Skills/07- what's a net cat.md",
+    "01 - General Skills/08- Plumbing.md",
+    "01 - General Skills/09- Glitch Cat.md",
+    "01 - General Skills/10- Nice netcat.md",
     "plantilla.md",
+    "Bienvenido.md",
+    "01 - General Skills/01- Lets Warm Up.md",
     "01 - General Skills",
     "Sin título.canvas",
     "plantilla",
-    "README.md",
-    "Bienvenido.md"
+    "README.md"
   ]
 }
