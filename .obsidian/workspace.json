@@ -324,9 +324,177 @@
               "icon": "lucide-file",
               "title": "20 - First Find"
             }
+          },
+          {
+            "id": "816dd17dcc8e7657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/21 - Super SSH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21 - Super SSH"
+            }
+          },
+          {
+            "id": "a5cbd454d421482a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 1"
+            }
+          },
+          {
+            "id": "62d966b30f169825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 2"
+            }
+          },
+          {
+            "id": "0f1389d63a315247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 3"
+            }
+          },
+          {
+            "id": "8239459ac97498d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 4"
+            }
+          },
+          {
+            "id": "02c32ab697fbea24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 5"
+            }
+          },
+          {
+            "id": "20ca25d1a38ca6de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 6"
+            }
+          },
+          {
+            "id": "a41a2eb5ff8027eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 7"
+            }
+          },
+          {
+            "id": "1d9575b165c38ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 8"
+            }
+          },
+          {
+            "id": "14fcdb1f38b221ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 9"
+            }
+          },
+          {
+            "id": "29ffe409a2325caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 10"
+            }
+          },
+          {
+            "id": "12923553f31f898f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/30 - Serpentine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30 - Serpentine"
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -493,10 +661,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "acb6ae2d0292bb80",
+  "active": "12923553f31f898f",
   "lastOpenFiles": [
-    "01 - General Skills/19 - Big zip.md",
+    "Sin título 11.md",
+    "01 - General Skills/30 - Serpentine.md",
+    "Sin título 10.md",
+    "01 - General Skills/29 - PW Crack 3.md",
+    "01 - General Skills/28 - PW Crack 2.md",
+    "01 - General Skills/27 - PW Crack 1.md",
+    "01 - General Skills/26 - Fixme2.py.md",
+    "01 - General Skills/25 -Fixme1.py.md",
+    "01 - General Skills/24 -Convertme.py.md",
+    "01 - General Skills/23 - Codebook.md",
+    "01 - General Skills/22 - Runme.py.md",
+    "01 - General Skills/21 - Super SSH.md",
     "01 - General Skills/20 - First Find.md",
+    "01 - General Skills/19 - Big zip.md",
     "plantilla.md",
     "01 - General Skills/18 - repetitions.md",
     "01 - General Skills/17 - Magikarp Ground Mission.md",
@@ -509,17 +689,8 @@
     "01 - General Skills/10- Nice netcat.md",
     "01 - General Skills/01- Lets Warm Up.md",
     "01 - General Skills/02- 2Warm.md",
-    "01 - General Skills/03- Warmed Up.md",
-    "01 - General Skills/04- Bases.md",
-    "01 - General Skills/05- First Grep.md",
-    "01 - General Skills/06- Obedient Cat.md",
-    "01 - General Skills/07- what's a net cat.md",
-    "01 - General Skills/08- Plumbing.md",
-    "01 - General Skills/09- Glitch Cat.md",
-    "Bienvenido.md",
     "01 - General Skills",
     "Sin título.canvas",
-    "plantilla",
-    "README.md"
+    "plantilla"
   ]
 }
