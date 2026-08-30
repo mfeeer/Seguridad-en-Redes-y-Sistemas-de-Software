@@ -492,9 +492,177 @@
               "icon": "lucide-file",
               "title": "30 - Serpentine"
             }
+          },
+          {
+            "id": "5a1989e8a45c9dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31- Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31- Permissions"
+            }
+          },
+          {
+            "id": "668f1a4e9ba57715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "306a708f687c4fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "32- chrono.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "32- chrono"
+            }
+          },
+          {
+            "id": "e97fbbef63dc7f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "33-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "33-"
+            }
+          },
+          {
+            "id": "f84d94bd882f2d7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 3"
+            }
+          },
+          {
+            "id": "3796ddfe3cd3465a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 4"
+            }
+          },
+          {
+            "id": "900150d4fb7af7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 4"
+            }
+          },
+          {
+            "id": "436c580d15109a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 5"
+            }
+          },
+          {
+            "id": "4fddd0e48457f4fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/37 - collaborative development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "37 - collaborative development"
+            }
+          },
+          {
+            "id": "b940595d6c3bccc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/38 -binary search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "38 -binary search"
+            }
+          },
+          {
+            "id": "ac9e50cdfea15a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/39 - binhexa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "39 - binhexa"
+            }
+          },
+          {
+            "id": "32178863dfc8ef25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/40 - ASCII Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "40 - ASCII Numbers"
+            }
           }
         ],
-        "currentTab": 34
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -661,10 +829,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "12923553f31f898f",
+  "active": "03227f274a33c272",
   "lastOpenFiles": [
-    "Sin título 11.md",
     "01 - General Skills/30 - Serpentine.md",
+    "01 - General Skills/40 - ASCII Numbers.md",
+    "01 - General Skills/39 - binhexa.md",
+    "01 - General Skills/38 -binary search.md",
+    "01 - General Skills/37 - collaborative development.md",
+    "plantilla.md",
+    "01 - General Skills/36 - blame game.md",
+    "01 - General Skills/35 - time machine.md",
+    "01 - General Skills/34 - Commitment Issues.md",
+    "01 - General Skills/33- special.md",
+    "01 - General Skills/32- chrono.md",
+    "01 - General Skills/31- Permissions.md",
+    "Sin título 11.md",
     "Sin título 10.md",
     "01 - General Skills/29 - PW Crack 3.md",
     "01 - General Skills/28 - PW Crack 2.md",
@@ -677,18 +856,7 @@
     "01 - General Skills/21 - Super SSH.md",
     "01 - General Skills/20 - First Find.md",
     "01 - General Skills/19 - Big zip.md",
-    "plantilla.md",
     "01 - General Skills/18 - repetitions.md",
-    "01 - General Skills/17 - Magikarp Ground Mission.md",
-    "01 - General Skills/16- Tab, Tab, Attack.md",
-    "01 - General Skills/15 - Useless.md",
-    "01 - General Skills/14- Static ain't always noise.md",
-    "01 - General Skills/13- Wave a flag.md",
-    "01 - General Skills/12- Strings it.md",
-    "01 - General Skills/11-Based.md",
-    "01 - General Skills/10- Nice netcat.md",
-    "01 - General Skills/01- Lets Warm Up.md",
-    "01 - General Skills/02- 2Warm.md",
     "01 - General Skills",
     "Sin título.canvas",
     "plantilla"
