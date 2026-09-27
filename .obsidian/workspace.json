@@ -898,9 +898,163 @@
               "icon": "lucide-file",
               "title": "56 - Most Cookies"
             }
+          },
+          {
+            "id": "eb46104fb77afe9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/57 - Includes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "57 - Includes"
+            }
+          },
+          {
+            "id": "4f911781f4c2dfa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/58 - Inspect HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "58 - Inspect HTML"
+            }
+          },
+          {
+            "id": "629eca09a1d5c602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/59 - IntroToBurp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "59 - IntroToBurp"
+            }
+          },
+          {
+            "id": "ad004629a051b4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/60 - Local Authority.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "60 - Local Authority"
+            }
+          },
+          {
+            "id": "8cca6f91951adc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/61 - Power Cookie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "61 - Power Cookie"
+            }
+          },
+          {
+            "id": "8f9db1f11686095e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/62 - Roboto Sans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "62 - Roboto Sans"
+            }
+          },
+          {
+            "id": "7aefd650e66e2f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/63 - Secrets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "63 - Secrets"
+            }
+          },
+          {
+            "id": "6297117855201a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/64 - SQLiLite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "64 - SQLiLite"
+            }
+          },
+          {
+            "id": "ffa2d88d2c1d313f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/65 - Unminify.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "65 - Unminify"
+            }
+          },
+          {
+            "id": "31f989625c936864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/66 - WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "66 - WebDecode"
+            }
+          },
+          {
+            "id": "1769c8d138d39b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/66 - WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "66 - WebDecode"
+            }
           }
         ],
-        "currentTab": 63
+        "currentTab": 74
       }
     ],
     "direction": "vertical"
@@ -1067,8 +1221,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7150a6bef3fca7e8",
+  "active": "1769c8d138d39b89",
   "lastOpenFiles": [
+    "Web/63 - Secrets.md",
+    "Web/64 - SQLiLite.md",
+    "Web/65 - Unminify.md",
+    "Web/66 - WebDecode.md",
+    "Web/62 - Roboto Sans.md",
+    "Web/61 - Power Cookie.md",
+    "Web/59 - IntroToBurp.md",
+    "Web/60 - Local Authority.md",
+    "Web/58 - Inspect HTML.md",
+    "Web/57 - Includes.md",
+    "Web/67 -.md",
+    "plantilla.md",
+    "PicoCTF Web 4/56 - Most Cookies.md",
+    "Web",
     "index.html",
     "PicoCTF Web 4/55 -Trickster.md",
     "webshell.png",
@@ -1078,8 +1246,6 @@
     "webshell.php",
     "PicoCTF Web 4/54 - SOAP.md",
     "PicoCTF Web 4/53 - MatchTheRegex.md",
-    "PicoCTF Web 4/56 - Most Cookies.md",
-    "plantilla.md",
     "PicoCTF Web 4",
     "PicoCTF Web 3/52- JaWT Scratchpad.md",
     "PicoCTF Web 3/50 - Irish-Name-Repo 1.md",
@@ -1093,16 +1259,6 @@
     "01 - General Skills/45- picobrowser.md",
     "01 - General Skills/44-dont-use-client-side.md",
     "01 - General Skills/43- logon.md",
-    "01 - General Skills/42 - where are the robots.md",
-    "01 - General Skills/41 - Insp3ct0r.md",
-    "Sin título 5.md",
-    "01 - General Skills/40 - ASCII Numbers.md",
-    "01 - General Skills/30 - Serpentine.md",
-    "01 - General Skills/39 - binhexa.md",
-    "01 - General Skills/38 -binary search.md",
-    "01 - General Skills/37 - collaborative development.md",
-    "01 - General Skills/36 - blame game.md",
-    "01 - General Skills/35 - time machine.md",
     "01 - General Skills",
     "Sin título.canvas",
     "plantilla"
