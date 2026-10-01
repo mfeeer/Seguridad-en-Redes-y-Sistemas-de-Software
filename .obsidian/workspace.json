@@ -1129,16 +1129,212 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic 1/71 - What Lies Within.md",
+                "file": "Forensic 1/69 - shark on wire 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "71 - What Lies Within"
+              "title": "69 - shark on wire 1"
+            }
+          },
+          {
+            "id": "360b5e7620f2c978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/2. flag_shop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. flag_shop"
+            }
+          },
+          {
+            "id": "1317c31542567ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/3. FANTASY CTF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. FANTASY CTF"
+            }
+          },
+          {
+            "id": "4d24abbf46eebba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/4. HashingJobApp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. HashingJobApp"
+            }
+          },
+          {
+            "id": "c8432a358ca5d648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/5. Python Wrangling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Python Wrangling"
+            }
+          },
+          {
+            "id": "766b45c70b09adb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/6. Rust fixme 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Rust fixme 1"
+            }
+          },
+          {
+            "id": "43222b7de62224a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/8. Rust fixme 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Rust fixme 3"
+            }
+          },
+          {
+            "id": "69a5b445b70fa164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/7. Rust fixme 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Rust fixme 2"
+            }
+          },
+          {
+            "id": "79a17e6b6d67b368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/9. SansAlpha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. SansAlpha"
+            }
+          },
+          {
+            "id": "5ec3425d5d2fdffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/7. Rust fixme 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Rust fixme 2"
+            }
+          },
+          {
+            "id": "e8b8b43f2bd660f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic 2/72 - m00nwalk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "72 - m00nwalk"
+            }
+          },
+          {
+            "id": "7b80eeae968effb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic 2/73 - WhitePages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "73 - WhitePages"
+            }
+          },
+          {
+            "id": "a0e7a047bc979590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic 2/Sin título 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 2"
+            }
+          },
+          {
+            "id": "41e71c863a677cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic 2/Sin título 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 3"
+            }
+          },
+          {
+            "id": "ad32b946268777bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic 2/76 - shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "76 - shark on wire 2"
             }
           }
         ],
-        "currentTab": 80
+        "currentTab": 94
       }
     ],
     "direction": "vertical"
@@ -1305,46 +1501,46 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "54e4d3fbee2aed65",
+  "active": "ad32b946268777bb",
   "lastOpenFiles": [
+    "Forensic 2/75 - like1000.md",
+    "Forensic 2/74 - c0rrupt.md",
+    "Forensic 2/73 - WhitePages.md",
+    "Forensic 2/72 - m00nwalk.md",
+    "Forensic 2/76 - shark on wire 2.md",
+    "plantilla.md",
     "Pasted image 20260928113422.png",
-    "Forensic 1/70 - extensions.md",
+    "Primer Examen Parcial/7. Rust fixme 2.md",
+    "Forensic 2",
+    "Primer Examen Parcial/6. Rust fixme 1.md",
+    "Primer Examen Parcial/5. Python Wrangling.md",
+    "Primer Examen Parcial/4. HashingJobApp.md",
+    "Primer Examen Parcial/3. FANTASY CTF.md",
+    "Primer Examen Parcial/2. flag_shop.md",
+    "Primer Examen Parcial/1. dont-you-love-banners.md",
+    "Primer Examen Parcial/10. Specialer.md",
+    "Primer Examen Parcial/9. SansAlpha.md",
+    "Primer Examen Parcial/8. Rust fixme 3.md",
     "Forensic 1/69 - shark on wire 1.md",
+    "Primer Examen Parcial",
+    "Forensic 1/71 - What Lies Within.md",
+    "Forensic 1/70 - extensions.md",
     "Forensic 1/68 - So Meta.md",
     "Forensic 1/67 - Glory of the Garden.md",
-    "Forensic 1/71 - What Lies Within.md",
-    "Sin título.md",
     "Forensic 1/Sin título 4.md",
-    "plantilla.md",
     "Web/66 - WebDecode.md",
     "Forensic 1",
     "Web/63 - Secrets.md",
     "Web/64 - SQLiLite.md",
-    "Web/65 - Unminify.md",
-    "Web/62 - Roboto Sans.md",
-    "Web/61 - Power Cookie.md",
-    "Web/59 - IntroToBurp.md",
-    "Web/60 - Local Authority.md",
-    "Web/58 - Inspect HTML.md",
-    "Web/57 - Includes.md",
-    "Web/67 -.md",
-    "PicoCTF Web 4/56 - Most Cookies.md",
     "Web",
     "index.html",
-    "PicoCTF Web 4/55 -Trickster.md",
     "webshell.png",
     "webshell.png.php",
     "webshell.php.png",
     "webshell.php.png.php",
     "webshell.php",
-    "PicoCTF Web 4/54 - SOAP.md",
-    "PicoCTF Web 4/53 - MatchTheRegex.md",
     "PicoCTF Web 4",
-    "PicoCTF Web 3/52- JaWT Scratchpad.md",
-    "PicoCTF Web 3/50 - Irish-Name-Repo 1.md",
     "PicoCTF Web 3",
-    "PicoCTF Web 2",
-    "01 - General Skills",
     "Sin título.canvas"
   ]
 }
