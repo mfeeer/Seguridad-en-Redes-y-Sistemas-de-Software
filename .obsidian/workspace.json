@@ -1549,12 +1549,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial - Web/10. WebSockFish.md",
+                "file": "Forensic 3/81 - MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. WebSockFish"
+              "title": "81 - MacroHard WeakEdge"
             }
           }
         ],
@@ -1727,9 +1727,15 @@
   },
   "active": "29f11b5379c3500a",
   "lastOpenFiles": [
-    "Primer Examen Parcial - General Skills/10 - Specialer.md",
+    "Forensic 3/79 - Matryoshka doll.md",
+    "Forensic 3/78 - WebNet1.md",
+    "Forensic 3/77 - WebNet0.md",
+    "Forensic 3/80 - tunn3l v1s10n.md",
+    "Forensic 3/81 - MacroHard WeakEdge.md",
     "plantilla.md",
     "Primer Examen Parcial - Web/10. WebSockFish.md",
+    "Forensic 3",
+    "Primer Examen Parcial - General Skills/10 - Specialer.md",
     "Primer Examen Parcial - Web/9. SSTI2.md",
     "Primer Examen Parcial - Web/8. SSTI1.md",
     "Primer Examen Parcial - Web/7. SQL Direct.md",
@@ -1750,12 +1756,8 @@
     "Forensic 2/76 - shark on wire 2.md",
     "Forensic 2/75 - like1000.md",
     "Forensic 2/74 - c0rrupt.md",
-    "Forensic 2/73 - WhitePages.md",
-    "Forensic 2/72 - m00nwalk.md",
     "Pasted image 20260928113422.png",
     "Forensic 2",
-    "Primer Examen Parcial - General Skills/6. Rust fixme 1.md",
-    "Primer Examen Parcial - General Skills/5. Python Wrangling.md",
     "Primer Examen Parcial - General Skills",
     "Forensic 1",
     "Web",
@@ -1765,7 +1767,6 @@
     "webshell.php.png",
     "webshell.php.png.php",
     "webshell.php",
-    "PicoCTF Web 4",
     "Sin título.canvas"
   ]
 }
