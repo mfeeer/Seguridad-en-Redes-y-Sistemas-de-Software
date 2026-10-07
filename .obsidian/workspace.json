@@ -1549,12 +1549,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic 3/81 - MacroHard WeakEdge.md",
+                "file": "Forensic 4/87 - Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "81 - MacroHard WeakEdge"
+              "title": "87 - Operation Oni"
             }
           }
         ],
@@ -1727,12 +1727,19 @@
   },
   "active": "29f11b5379c3500a",
   "lastOpenFiles": [
+    "plantilla.md",
+    "Forensic 4/87 - Operation Oni.md",
+    "Forensic 4/86 - Operation Orchid.md",
+    "Forensic 4/85 - Sleuthkit Apprentice.md",
+    "Forensic 4/84 - Sleuthkit Intro.md",
+    "Forensic 4/83 - Disk, disk, sleuth!.md",
+    "Forensic 4/82 - Milkslap.md",
+    "Forensic 3/81 - MacroHard WeakEdge.md",
+    "Forensic 4",
     "Forensic 3/79 - Matryoshka doll.md",
     "Forensic 3/78 - WebNet1.md",
     "Forensic 3/77 - WebNet0.md",
     "Forensic 3/80 - tunn3l v1s10n.md",
-    "Forensic 3/81 - MacroHard WeakEdge.md",
-    "plantilla.md",
     "Primer Examen Parcial - Web/10. WebSockFish.md",
     "Forensic 3",
     "Primer Examen Parcial - General Skills/10 - Specialer.md",
@@ -1750,12 +1757,6 @@
     "PicoCTF Web 3/Sin título.md",
     "Primer Examen Parcial/10. Specialer.md",
     "Primer Examen Parcial - Web",
-    "Primer Examen Parcial - General Skills/9. SansAlpha.md",
-    "Primer Examen Parcial - General Skills/8. Rust fixme 3.md",
-    "Primer Examen Parcial - General Skills/7. Rust fixme 2.md",
-    "Forensic 2/76 - shark on wire 2.md",
-    "Forensic 2/75 - like1000.md",
-    "Forensic 2/74 - c0rrupt.md",
     "Pasted image 20260928113422.png",
     "Forensic 2",
     "Primer Examen Parcial - General Skills",
@@ -1766,7 +1767,6 @@
     "webshell.png.php",
     "webshell.php.png",
     "webshell.php.png.php",
-    "webshell.php",
     "Sin título.canvas"
   ]
 }
