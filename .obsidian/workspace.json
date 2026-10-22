@@ -1479,12 +1479,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto - Parte 3/100 - b00tl3gRSA3.md",
+                "file": "Crypto - Parte 4/105 - flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "100 - b00tl3gRSA3"
+              "title": "105 - flags"
             }
           },
           {
@@ -1881,11 +1881,17 @@
   },
   "active": "8f791769ceb86ab4",
   "lastOpenFiles": [
+    "Crypto - Parte 4/104 - ReadMyCert.md",
+    "Crypto - Parte 4/103 - HideToSee.md",
+    "Crypto - Parte 4/102 - basic-mod1.md",
+    "Crypto - Parte 4/101 - Pixelated.md",
+    "Crypto - Parte 4/105 - flags.md",
+    "plantilla.md",
+    "Crypto - Parte 3/100 - b00tl3gRSA3.md",
+    "Crypto - Parte 4",
     "Crypto - Parte 3/99 - b00tl3gRSA2.md",
     "Crypto - Parte 3/98 - Mind your Ps and Qs.md",
     "Crypto - Parte 3/97 - Mini RSA.md",
-    "Crypto - Parte 3/100 - b00tl3gRSA3.md",
-    "plantilla.md",
     "Tarea 4 - Forensic/9 - Ph4nt0m 1ntrud3r.md",
     "Crypto - Parte 3",
     "Tarea 4 - Forensic/8 - RED.md",
@@ -1905,12 +1911,7 @@
     "Crypto - Parte 1/93 - Tapping.md",
     "Crypto - Parte 1/92 - la cifra de.md",
     "Crypto - Parte 1/91 - Easy1.md",
-    "Crypto - Parte 1/90 - Caesar.md",
-    "Crypto - Parte 1/89 - 13.md",
-    "Crypto - Parte 1/88 - The numbers.md",
-    "Forensic 4/87 - Operation Oni.md",
     "Crypto - Parte 1",
-    "Forensic 4/86 - Operation Orchid.md",
     "Forensic 4",
     "Forensic 3",
     "Pasted image 20261003231313.png",
@@ -1918,7 +1919,6 @@
     "Pasted image 20260928113422.png",
     "Forensic 2",
     "Primer Examen Parcial - General Skills",
-    "Forensic 1",
     "webshell.png",
     "webshell.php.png",
     "Sin título.canvas"
