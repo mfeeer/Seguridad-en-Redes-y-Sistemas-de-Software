@@ -1479,12 +1479,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto - Parte 4/105 - flags.md",
+                "file": "Tarea 5 - Crypto/10 - Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "105 - flags"
+              "title": "10 - Vigenere"
             }
           },
           {
@@ -1881,12 +1881,23 @@
   },
   "active": "8f791769ceb86ab4",
   "lastOpenFiles": [
+    "Tarea 5 - Crypto/9 - substitution2.md",
+    "Tarea 5 - Crypto/8 - substitution1.md",
+    "Tarea 5 - Crypto/7 - substitution0.md",
+    "Tarea 5 - Crypto/6 - rail-fence.md",
+    "Tarea 5 - Crypto/5 - morse-code.md",
+    "Tarea 5 - Crypto/4 - hashcrack.md",
+    "Tarea 5 - Crypto/3 - EVEN RSA CAN BE BROKEN.md",
+    "Tarea 5 - Crypto/2 - credstuff.md",
+    "Tarea 5 - Crypto/1 - Crack the Power.md",
+    "Tarea 5 - Crypto/10 - Vigenere.md",
+    "plantilla.md",
+    "Crypto - Parte 4/105 - flags.md",
+    "Tarea 5 - Crypto",
     "Crypto - Parte 4/104 - ReadMyCert.md",
     "Crypto - Parte 4/103 - HideToSee.md",
     "Crypto - Parte 4/102 - basic-mod1.md",
     "Crypto - Parte 4/101 - Pixelated.md",
-    "Crypto - Parte 4/105 - flags.md",
-    "plantilla.md",
     "Crypto - Parte 3/100 - b00tl3gRSA3.md",
     "Crypto - Parte 4",
     "Crypto - Parte 3/99 - b00tl3gRSA2.md",
@@ -1899,18 +1910,8 @@
     "Tarea 4 - Forensic/6 - CanYouSee.md",
     "Tarea 4 - Forensic/5 - Scan Surprise.md",
     "Tarea 4 - Forensic/4 - hideme.md",
-    "Tarea 4 - Forensic/3 - Redaction gone wrong.md",
-    "Tarea 4 - Forensic/2 - St3g0.md",
-    "Tarea 4 - Forensic/1 - information.md",
-    "Crypto - Parte 2/96 - rsa-pop-quiz.md",
     "Tarea 4 - Forensic",
-    "Crypto - Parte 1/95 - interencdec.md",
     "Crypto - Parte 2",
-    "Primer Examen Parcial - Web/3. findme.md",
-    "Crypto - Parte 1/94 - waves over lambda.md",
-    "Crypto - Parte 1/93 - Tapping.md",
-    "Crypto - Parte 1/92 - la cifra de.md",
-    "Crypto - Parte 1/91 - Easy1.md",
     "Crypto - Parte 1",
     "Forensic 4",
     "Forensic 3",
@@ -1918,7 +1919,6 @@
     "Primer Examen Parcial - Web",
     "Pasted image 20260928113422.png",
     "Forensic 2",
-    "Primer Examen Parcial - General Skills",
     "webshell.png",
     "webshell.php.png",
     "Sin título.canvas"
