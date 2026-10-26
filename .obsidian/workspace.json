@@ -1479,12 +1479,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 5 - Crypto/10 - Vigenere.md",
+                "file": "Reversing - Parte 1/110 - vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Vigenere"
+              "title": "110 - vault-door-5"
             }
           },
           {
@@ -1881,6 +1881,14 @@
   },
   "active": "8f791769ceb86ab4",
   "lastOpenFiles": [
+    "Reversing - Parte 1/109 - vault-door-4.md",
+    "Reversing - Parte 1/108 - vault-door-3.md",
+    "Reversing - Parte 1/107 - vault-door-1.md",
+    "Reversing - Parte 1/106 - vault-door-training.md",
+    "Reversing - Parte 1/110 - vault-door-5.md",
+    "plantilla.md",
+    "Tarea 5 - Crypto/10 - Vigenere.md",
+    "Reversing - Parte 1",
     "Tarea 5 - Crypto/9 - substitution2.md",
     "Tarea 5 - Crypto/8 - substitution1.md",
     "Tarea 5 - Crypto/7 - substitution0.md",
@@ -1890,8 +1898,6 @@
     "Tarea 5 - Crypto/3 - EVEN RSA CAN BE BROKEN.md",
     "Tarea 5 - Crypto/2 - credstuff.md",
     "Tarea 5 - Crypto/1 - Crack the Power.md",
-    "Tarea 5 - Crypto/10 - Vigenere.md",
-    "plantilla.md",
     "Crypto - Parte 4/105 - flags.md",
     "Tarea 5 - Crypto",
     "Crypto - Parte 4/104 - ReadMyCert.md",
@@ -1905,11 +1911,6 @@
     "Crypto - Parte 3/97 - Mini RSA.md",
     "Tarea 4 - Forensic/9 - Ph4nt0m 1ntrud3r.md",
     "Crypto - Parte 3",
-    "Tarea 4 - Forensic/8 - RED.md",
-    "Tarea 4 - Forensic/7 - Secret of the Polyglot.md",
-    "Tarea 4 - Forensic/6 - CanYouSee.md",
-    "Tarea 4 - Forensic/5 - Scan Surprise.md",
-    "Tarea 4 - Forensic/4 - hideme.md",
     "Tarea 4 - Forensic",
     "Crypto - Parte 2",
     "Crypto - Parte 1",
@@ -1918,7 +1919,6 @@
     "Pasted image 20261003231313.png",
     "Primer Examen Parcial - Web",
     "Pasted image 20260928113422.png",
-    "Forensic 2",
     "webshell.png",
     "webshell.php.png",
     "Sin título.canvas"
