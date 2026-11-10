@@ -1493,12 +1493,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing - Parte 2/116 - Picker IIII.md",
+                "file": "Reversing - Parte 3/118 - asm2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "116 - Picker IIII"
+              "title": "118 - asm2"
             }
           },
           {
@@ -1895,8 +1895,13 @@
   },
   "active": "143820ed93ee8364",
   "lastOpenFiles": [
+    "Reversing - Parte 3/119 - asm3.md",
+    "Reversing - Parte 3/118 - asm2.md",
+    "Segundo Examen Parcial - Forensic/1. Lookey here.md",
+    "Reversing - Parte 3/117 - asm1.md",
     "plantilla.md",
     "Reversing - Parte 2/116 - Picker IIII.md",
+    "Reversing - Parte 3",
     "Reversing - Parte 2/115 - Picker III.md",
     "Reversing - Parte 2/114 - Picker II.md",
     "Reversing - Parte 2/113 - Picker I.md",
@@ -1915,15 +1920,11 @@
     "Segundo Examen Parcial - Forensic/5. Flag in Flame.md",
     "Segundo Examen Parcial - Forensic/3. Riddle Registry.md",
     "Segundo Examen Parcial - Forensic/2. Enhance!.md",
-    "Segundo Examen Parcial - Forensic/1. Lookey here.md",
     "Segundo Examen Parcial - Crypto/10. rsa_oracle.md",
     "Segundo Examen Parcial - Crypto/9. Related Messages.md",
     "Segundo Examen Parcial - Crypto/8. Small Trouble.md",
     "Segundo Examen Parcial - Crypto/7. Timestamped Secrets.md",
     "Segundo Examen Parcial - Crypto/6. Custom encryption.md",
-    "Segundo Examen Parcial - Crypto/5. transposition-trial.md",
-    "Segundo Examen Parcial - Crypto/1. basic-mod2.md",
-    "Segundo Examen Parcial - Crypto/2. rotation.md",
     "Reversing - Parte 1",
     "Tarea 5 - Crypto",
     "Crypto - Parte 4",
@@ -1932,7 +1933,6 @@
     "Crypto - Parte 2",
     "Crypto - Parte 1",
     "Forensic 4",
-    "Forensic 3",
     "Pasted image 20261003231313.png",
     "Pasted image 20260928113422.png",
     "webshell.png",
